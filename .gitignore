@@ -1,0 +1,9 @@
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.[Cc]achefile
+*.bak
+*.ncb
+*.log
